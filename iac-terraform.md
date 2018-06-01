@@ -10,14 +10,10 @@ revealOptions:
 
 # Infrastructure as Code with Terraform
 
-
 * Eimert Vink
 * Dev Engineer
 
-
-
 ----
-
 
 * 2016 / 2017:
 * Ordina (werkgever)
@@ -25,10 +21,9 @@ revealOptions:
 * Presentatie op persoonlijke titel
 * Gemaakt met LibreOffice Impress.
 
-
 ---
 
-![img](images/20170109_infrastructure_as_code_terraform_slideshare-01.png)
+<img src="images/20170109_infrastructure_as_code_terraform_slideshare-01.png">
 
 ----
 
