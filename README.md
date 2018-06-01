@@ -1,7 +1,7 @@
 # Presentations
 
 This repository contains my presentations and a travis-ci workflow to create github pages for them.
-You can find them at [http://www.eimertvink.nl/presentations/](http://www.eimertvink.nl/presentations/)
+You can find them at [https://eimert.github.io/presentations/](https://eimert.github.io/presentations/)
 
 [![Build Status](https://travis-ci.org/Eimert/presentations.svg?branch=master)](https://travis-ci.org/Eimert/presentations)
 
