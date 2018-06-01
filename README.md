@@ -12,4 +12,4 @@ You can find them at [https://eimert.github.io/presentations/](https://eimert.gi
 * create a token at github: https://github.com/settings/tokens (public_repo is the only needed checkmark)
 * create an environment with the name GITHUB_TOKEN and as value the token at https://travis-ci.org/username/repo/settings
 * After your push to the master branch, your [Project Pages](https://help.github.com/articles/creating-project-pages-using-the-command-line/) site will be available at `http(s)://<username>.github.io/<projectname>`.
-<br>Credits: [MansM](https://github.com/MansM/presentations/)<br>
+<br><br>Credits: [MansM](https://github.com/MansM/presentations/)<br>
