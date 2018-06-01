@@ -25,4 +25,5 @@ revealOptions:
 
 <img src="images/20170109_infrastructure_as_code_terraform_slideshare-01.png">
 
+
 ----
