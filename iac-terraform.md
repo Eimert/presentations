@@ -1,14 +1,16 @@
-
 ---
 title: Infrastructure as Code with Terraform
 theme: white
 revealOptions:
     transition: slide
     backgroundTransition: slide
-
+todo:
+   add process of how docker slaves are being setup
+   remix types in scale out
 ---
 
 # Infrastructure as Code with Terraform
+
 
 * Eimert Vink
 * Dev Engineer

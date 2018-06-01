@@ -5,6 +5,13 @@ You can find them at [https://eimert.github.io/presentations/](https://eimert.gi
 
 [![Build Status](https://travis-ci.org/Eimert/presentations.svg?branch=master)](https://travis-ci.org/Eimert/presentations)
 
+## Docker
+Want fast feedback on dev=>test work? Run reveal-md using docker.<br>
+```
+cd presentations/
+docker run -it --rm -p 8000:1948 -v $(pwd):/usr/src/app/ containersol/reveal-md:latest
+```
+
 ## I want this TOO!!!
 * copy/paste the .travis.yml & compile.sh to your repo.
 * have all the presentations in your root folder of your repo
