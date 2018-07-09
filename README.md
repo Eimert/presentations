@@ -1,12 +1,11 @@
-# Presentations
+# Presentations [![Build Status](https://travis-ci.org/Eimert/presentations.svg?branch=master)](https://travis-ci.org/Eimert/presentations)
 
 This repository contains my presentations and a travis-ci workflow to create github pages for them.
-You can find them at [https://eimert.github.io/presentations/](https://eimert.github.io/presentations/)
 
-[![Build Status](https://travis-ci.org/Eimert/presentations.svg?branch=master)](https://travis-ci.org/Eimert/presentations)
+## View: [https://eimert.github.io/presentations/](https://eimert.github.io/presentations/)
 
-## Docker
-Want fast feedback on dev=>test work? Run reveal-md using docker.<br>
+## Presentation writing setup
+Want a fast feedback cycle? Run reveal-md using docker.<br>
 ```
 cd presentations/
 docker run -it --rm -p 8000:1948 -v $(pwd):/usr/src/app/ containersol/reveal-md:latest
