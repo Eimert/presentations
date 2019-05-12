@@ -3,7 +3,7 @@ node_js:
   - "6.1"
 
 install:
-  - npm install -g reveal-md@0.1.1
+  - npm install
 
 script:
   - chmod +x compile.sh

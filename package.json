@@ -1,0 +1,13 @@
+{
+  "name": "presentations",
+  "description": "View presentations on: https://eimert.github.io/presentations/",
+  "version": "1.0.0",
+  "repository": "https://github.com/Eimert/presentations",
+  "bugs": "https://github.com/Eimert/presentations/issues",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^3.0.4",
+    "puppeteer": "^1.15.0",
+    "braces": "^2.3.1"
+  }
+}

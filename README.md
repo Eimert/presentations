@@ -12,8 +12,8 @@ docker run -it --rm -p 8000:1948 -v $(pwd):/usr/src/app/ containersol/reveal-md:
 ```
 
 ## I want this TOO!!!
-* copy/paste the .travis.yml & compile.sh to your repo.
-* have all the presentations in your root folder of your repo
+* copy/paste the .travis.yml and compile.sh to your repo.
+* have all the .md presentations in your root folder of your repo
 * sign up at https://travis-ci.org/
 * create a token at github: https://github.com/settings/tokens (public_repo is the only needed checkmark)
 * create an environment with the name GITHUB_TOKEN and as value the token at https://travis-ci.org/username/repo/settings
