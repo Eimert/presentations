@@ -8,6 +8,12 @@
   "dependencies": {
     "reveal-md": "^3.0.4",
     "puppeteer": "^1.15.0",
-    "braces": "^3.0.0"
-  }
+    "braces": "^3.0.0",
+    "snyk": "^1.189.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
