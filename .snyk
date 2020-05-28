@@ -33,6 +33,9 @@ patch:
         patched: '2019-10-03T23:05:37.098Z'
     - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
         patched: '2019-10-03T23:05:37.098Z'
+  SNYK-JS-TREEKILL-536781:
+    - snyk > snyk-sbt-plugin > tree-kill:
+        patched: '2019-12-11T23:06:04.149Z'
   SNYK-JS-LODASH-567746:
     - reveal-md > lodash:
         patched: '2020-04-30T23:07:38.409Z'
