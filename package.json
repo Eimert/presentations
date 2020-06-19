@@ -9,7 +9,7 @@
     "reveal-md": "^3.5.0",
     "puppeteer": "^1.20.0",
     "braces": "^3.0.2",
-    "snyk": "^1.316.1"
+    "snyk": "^1.332.1"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
