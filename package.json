@@ -6,10 +6,10 @@
   "bugs": "https://github.com/Eimert/presentations/issues",
   "license": "MIT",
   "dependencies": {
-    "reveal-md": "^4.0.0",
-    "puppeteer": "^1.20.0",
+    "reveal-md": "^4.1.2",
+    "puppeteer": "^5.1.0",
     "braces": "^3.0.2",
-    "snyk": "^1.348.2"
+    "snyk": "^1.362.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
