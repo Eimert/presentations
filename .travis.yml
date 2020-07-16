@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - "10.4.1"
+
+install:
+  - npm install
+
+script:
+  - chmod +x compile.sh
+  - ./compile.sh
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master

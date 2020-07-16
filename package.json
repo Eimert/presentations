@@ -1,0 +1,19 @@
+{
+  "name": "presentations",
+  "description": "View presentations on: https://eimert.github.io/presentations/",
+  "version": "1.0.0",
+  "repository": "https://github.com/Eimert/presentations",
+  "bugs": "https://github.com/Eimert/presentations/issues",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^4.0.0",
+    "puppeteer": "^1.20.0",
+    "braces": "^3.0.2",
+    "snyk": "^1.348.2"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
+}
