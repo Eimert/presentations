@@ -6,7 +6,7 @@
   "bugs": "https://github.com/Eimert/presentations/issues",
   "license": "MIT",
   "dependencies": {
-    "reveal-md": "^5.0.1",
+    "reveal-md": "^5.3.3",
     "puppeteer": "^5.2.1",
     "braces": "^3.0.2",
     "snyk": "^1.685.0"
