@@ -8,7 +8,7 @@
   "dependencies": {
     "reveal-md": "^5.0.1",
     "puppeteer": "^5.2.1",
-    "braces": "^3.0.2",
+    "braces": "^3.0.3",
     "snyk": "^1.685.0"
   },
   "scripts": {
